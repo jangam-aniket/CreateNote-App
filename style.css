@@ -1,0 +1,19 @@
+body {
+  background-color: #e76b74;
+}
+#nav-content {
+  background-color: #964ad4;
+}
+#form-content {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+#table-content {
+  border: 2px solid white;
+  border-radius: 5px;
+}
+#myTable {
+  background-color: rgb(65, 208, 212);
+  border: 1px solid white;
+  border-radius: 5px;
+}

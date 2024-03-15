@@ -1,6 +1,9 @@
 body {
   background-color: #e76b74;
 }
+.txt {
+  color: white;
+}
 #nav-content {
   background-color: #964ad4;
 }
